@@ -4,7 +4,7 @@
  */
 
 const path = require('path');
-const fileManager = require('./file-manager');
+const fileManager = require('./file_manager');
 const logger = require('./logger');
 
 /**

@@ -3,7 +3,7 @@
  */
 const fs = require('fs').promises;
 const path = require('path');
-const fileTypes = require('./file-types');
+const fileTypes = require('./file_type');
 const logger = require('./logger');
 
 /**
